@@ -14,13 +14,12 @@ I enjoy working with modern web technologies and continuously improving my skill
 
 ### 🛠 Technical Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,git,github)
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirzaAmaan12&show_icons=true&theme=github_dark" />
-</p>
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaAmaan12&theme=github-dark" />
+</p>
+
 
 ### ⭐ Featured Projects
 - **Student-Scores-By-Linear-Regression** – Machine learning project using Python  
