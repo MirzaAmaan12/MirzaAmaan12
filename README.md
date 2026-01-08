@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mirza Amaanullah Baig</h1>
-<p align="center">Frontend Developer | Python Enthusiast</p>
+<p align="center">FullStack Developer | Python Enthusiast</p>
 
 ---
 
 ### 👨‍💻 About Me
-I am a passionate Frontend Developer with a strong interest in building responsive, user-friendly web applications.  
+I am a passionate FullStack Developer with a strong interest in building responsive, user-friendly web applications.  
 I enjoy working with modern web technologies and continuously improving my skills through hands-on projects and learning.
 
-- 💻 Frontend Development (HTML, CSS, JavaScript, React)
+- 💻 FullStack Development (HTML, CSS, JavaScript, React)
 - 🐍 Python & basic Machine Learning
 - 🌱 Always learning and improving
 ---
